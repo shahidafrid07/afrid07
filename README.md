@@ -1,2 +1,0 @@
-# my-project
-# afrid07
